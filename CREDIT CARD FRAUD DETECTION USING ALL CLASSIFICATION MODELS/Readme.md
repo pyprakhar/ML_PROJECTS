@@ -33,6 +33,7 @@ pip install numpy pandas scikit-learn seaborn matplotlib
 
 ## Dataset
 The dataset "credit_data.csv" contains various attributes related to credit card transactions, including the transaction amount and whether the transaction is legitimate or fraudulent.
+https://www.kaggle.com/datasets/teralasowmya/credit-datacsv
 
 ## Data Preprocessing
 - Load the dataset into a Pandas DataFrame.
