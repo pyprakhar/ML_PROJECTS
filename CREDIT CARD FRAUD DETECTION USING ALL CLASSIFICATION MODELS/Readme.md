@@ -58,7 +58,7 @@ We analyze the strengths and weaknesses of each model and discuss their implicat
 ## Usage
 - Clone this repository:
 ```
-git clone https://github.com/your_username/credit-card-fraud-detection.git
+git clone https://github.com/pyprakhar/credit-card-fraud-detection.git
 ```
 - Navigate to the project directory:
 ```
